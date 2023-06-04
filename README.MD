@@ -10,11 +10,11 @@ The Document Scanner API is a powerful tool that allows users to extract informa
 
 ## Installation
 
-1 - Clone the repository: ```bash git clone https://github.com/Miguel-Leite/angola-document-scanner-api.git ```
-2 - Navigate to the project directory: ```bash cd document-scanner-api ```
-1 - Install the dependencies: ```bash yarn ``` or ```bash npm install ```
+1. Clone the repository: ```git clone https://github.com/Miguel-Leite/angola-document-scanner-api.git ```
+2. Navigate to the project directory: ```cd document-scanner-api ```
+1. Install the dependencies: ```yarn ``` or ```npm install ```
 
 ## Usage
 
-1 - Start the API server: ```bash yarn start:dev``` or ```bash npm run start:dev ```
-2 - The API will be available at: http://localhost:5000
+1. Start the API server: ```yarn start:dev``` or ```npm run start:dev ```
+2. The API will be available at: http://localhost:5000
