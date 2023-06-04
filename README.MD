@@ -18,3 +18,17 @@ The Document Scanner API is a powerful tool that allows users to extract informa
 
 1. Start the API server: ```yarn start:dev``` or ```npm run start:dev ```
 2. The API will be available at: http://localhost:5000
+
+# Contributing
+
+Contributions to the Angola Document Scanner API are welcome! This project is open source, and you can contribute by following these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature/bug fix.
+3. Make your changes and commit them with descriptive messages.
+4. Push your changes to your forked repository.
+5. Submit a pull request to the main repository.
+
+# License
+
+This project is licensed under the MIT License.
